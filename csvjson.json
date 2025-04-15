@@ -1,0 +1,275 @@
+[
+  {
+    "Profesores": "Abud Carrillo, Jenny",
+    "Titulados": 10,
+    "guiades": 15,
+    "porcentajes": "67%",
+    "notas": "4,7"
+  },
+  {
+    "Profesores": "Benavides Bermúdez, Paola",
+    "Titulados": 2,
+    "guiades": 7,
+    "porcentajes": "29%",
+    "notas": "2,0"
+  },
+  {
+    "Profesores": "Castillo Espinoza, Eduardo",
+    "Titulados": 9,
+    "guiades": 21,
+    "porcentajes": "43%",
+    "notas": "3,0"
+  },
+  {
+    "Profesores": "Morales Mujica, María Paz",
+    "Titulados": 5,
+    "guiades": 11,
+    "porcentajes": "45%",
+    "notas": "3,2"
+  },
+  {
+    "Profesores": "Cortez Orellana, Felipe",
+    "Titulados": 8,
+    "guiades": 17,
+    "porcentajes": "47%",
+    "notas": "3,3"
+  },
+  {
+    "Profesores": "Castro Meza, Ricardo",
+    "Titulados": 1,
+    "guiades": 1,
+    "porcentajes": "100%",
+    "notas": "7,0"
+  },
+  {
+    "Profesores": "De la Sotta Lazzerini, Paola",
+    "Titulados": 7,
+    "guiades": 17,
+    "porcentajes": "41%",
+    "notas": "2,9"
+  },
+  {
+    "Profesores": "Domínguez González, Pablo",
+    "Titulados": 25,
+    "guiades": 62,
+    "porcentajes": "40%",
+    "notas": "2,8"
+  },
+  {
+    "Profesores": "Donoso Cisternas, Sergio",
+    "Titulados": 7,
+    "guiades": 20,
+    "porcentajes": "35%",
+    "notas": "2,5"
+  },
+  {
+    "Profesores": "Dueñas Santander, Rodrigo",
+    "Titulados": 12,
+    "guiades": 26,
+    "porcentajes": "46%",
+    "notas": "3,2"
+  },
+  {
+    "Profesores": "Gatica Ramírez, Pamela",
+    "Titulados": 6,
+    "guiades": 13,
+    "porcentajes": "46%",
+    "notas": "3,2"
+  },
+  {
+    "Profesores": "Gómez Moya, Cristián",
+    "Titulados": 3,
+    "guiades": 9,
+    "porcentajes": "33%",
+    "notas": "2,3"
+  },
+  {
+    "Profesores": "Jacob Dazarola, Rubén",
+    "Titulados": 13,
+    "guiades": 37,
+    "porcentajes": "35%",
+    "notas": "2,5"
+  },
+  {
+    "Profesores": "Lares López, Lorna",
+    "Titulados": 4,
+    "guiades": 17,
+    "porcentajes": "24%",
+    "notas": "1,6"
+  },
+  {
+    "Profesores": "Marín Pacheco, Antonio",
+    "Titulados": 3,
+    "guiades": 10,
+    "porcentajes": "30%",
+    "notas": "2,1"
+  },
+  {
+    "Profesores": "Lepe Muñoz, Juan Carlos",
+    "Titulados": 2,
+    "guiades": 5,
+    "porcentajes": "40%",
+    "notas": "2,8"
+  },
+  {
+    "Profesores": "Maldonado de la Fuente, Felix",
+    "Titulados": 3,
+    "guiades": 9,
+    "porcentajes": "33%",
+    "notas": "2,3"
+  },
+  {
+    "Profesores": "Méndez Olivares, Iván",
+    "Titulados": 2,
+    "guiades": 6,
+    "porcentajes": "33%",
+    "notas": "2,3"
+  },
+  {
+    "Profesores": "Nuñez Gutiérrez, Pablo",
+    "Titulados": 4,
+    "guiades": 13,
+    "porcentajes": "31%",
+    "notas": "2,2"
+  },
+  {
+    "Profesores": "Ode Saleh, Verónica",
+    "Titulados": 15,
+    "guiades": 29,
+    "porcentajes": "52%",
+    "notas": "3,6"
+  },
+  {
+    "Profesores": "Jove Avilés, Trinidad",
+    "Titulados": 2,
+    "guiades": 6,
+    "porcentajes": "33%",
+    "notas": "2,3"
+  },
+  {
+    "Profesores": "Molina, Raúl",
+    "Titulados": 1,
+    "guiades": 4,
+    "porcentajes": "25%",
+    "notas": "1,8"
+  },
+  {
+    "Profesores": "Osses Flores, Roberto",
+    "Titulados": 7,
+    "guiades": 23,
+    "porcentajes": "30%",
+    "notas": "2,1"
+  },
+  {
+    "Profesores": "Pagueguy Fenner, Sebastián",
+    "Titulados": 5,
+    "guiades": 14,
+    "porcentajes": "36%",
+    "notas": "2,5"
+  },
+  {
+    "Profesores": "Perea Morales, René",
+    "Titulados": 3,
+    "guiades": 11,
+    "porcentajes": "27%",
+    "notas": "1,9"
+  },
+  {
+    "Profesores": "Perelli Soto, Bruno",
+    "Titulados": 2,
+    "guiades": 7,
+    "porcentajes": "29%",
+    "notas": "2,0"
+  },
+  {
+    "Profesores": "Mora, Alfredo",
+    "Titulados": 1,
+    "guiades": 2,
+    "porcentajes": "50%",
+    "notas": "3,5"
+  },
+  {
+    "Profesores": "Pradenas Guentherodt, Gabriela",
+    "Titulados": 3,
+    "guiades": 3,
+    "porcentajes": "100%",
+    "notas": "7,0"
+  },
+  {
+    "Profesores": "Reyes León, Daniel",
+    "Titulados": 4,
+    "guiades": 4,
+    "porcentajes": "100%",
+    "notas": "7,0"
+  },
+  {
+    "Profesores": "Ruiz Balart, Macarena",
+    "Titulados": 1,
+    "guiades": 1,
+    "porcentajes": "100%",
+    "notas": "7,0"
+  },
+  {
+    "Profesores": "Santibañez Boric, Mónica",
+    "Titulados": 1,
+    "guiades": 1,
+    "porcentajes": "100%",
+    "notas": "7,0"
+  },
+  {
+    "Profesores": "Silva Roquefort, Rebeca",
+    "Titulados": 1,
+    "guiades": 2,
+    "porcentajes": "50%",
+    "notas": "3,5"
+  },
+  {
+    "Profesores": "Soto Calquín, Leonardo",
+    "Titulados": 8,
+    "guiades": 21,
+    "porcentajes": "38%",
+    "notas": "2,7"
+  },
+  {
+    "Profesores": "Stange Marcus, Hans",
+    "Titulados": 1,
+    "guiades": 3,
+    "porcentajes": "33%",
+    "notas": "2,3"
+  },
+  {
+    "Profesores": "Tapia Reyes, Mauricio",
+    "Titulados": 4,
+    "guiades": 6,
+    "porcentajes": "67%",
+    "notas": "4,7"
+  },
+  {
+    "Profesores": "Vico Sánchez, Mauricio",
+    "Titulados": 2,
+    "guiades": 4,
+    "porcentajes": "50%",
+    "notas": "3,5"
+  },
+  {
+    "Profesores": "Wechsler Pizarro, Andrea",
+    "Titulados": 11,
+    "guiades": 4,
+    "porcentajes": "275%",
+    "notas": "19,3"
+  },
+  {
+    "Profesores": "Young Araya, Mariana",
+    "Titulados": 1,
+    "guiades": 12,
+    "porcentajes": "8%",
+    "notas": "0,6"
+  },
+  {
+    "Profesores": "Zorzano Betancourt, Osvaldo",
+    "Titulados": 3,
+    "guiades": 10,
+    "porcentajes": "30%",
+    "notas": "2,1"
+  }
+]
